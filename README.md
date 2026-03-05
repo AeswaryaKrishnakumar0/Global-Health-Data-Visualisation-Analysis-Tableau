@@ -1,2 +1,4 @@
 # Global-Health-Data-Visualisation-Analysis-Tableau
-TABLEAU
+This project analyses global health indicator data using Tableau to explore patterns and regional differences across countries. The dataset includes health-related indicators such as smoking prevalence, obesity rates, and other behavioural health metrics collected from multiple countries over several years. Interactive visualisations were created to transform the raw data into meaningful insights, allowing users to explore trends across countries, regions, and time periods.
+
+Several visualisation techniques were implemented including choropleth maps, line charts, and treemap visualisations. Choropleth maps were used to display geographic differences in health indicators across countries, while line charts helped analyse trends over time for selected countries. Additional interactive filters and parameters allow users to focus on specific indicators or years, making it easier to explore patterns and compare health outcomes across regions.
